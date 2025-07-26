@@ -1,2 +1,2 @@
-# Dailiy-1-Interview-Experience
+# Daily-1-Interview-Experience
 Interview Experience 
